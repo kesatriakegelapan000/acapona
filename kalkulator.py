@@ -47,3 +47,4 @@ d.hitung(c)
 
 
 print(f"hasil = {d}")
+
