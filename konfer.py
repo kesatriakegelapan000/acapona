@@ -34,3 +34,4 @@ print(df)
 df.to_excel('data.xlsx', index=False)
 
 print("Data telah disimpan ke 'data.xlsx'.")
+print(f"\n\n{'kalo gw malu tuh':^10}\n\n")
